@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaCecilia1 Welcome to my GitHub profile!!!
 - 💻👀 I'm a Computer Engineering Student
-- ☕ I’m currently learning HTML,CSS e Java.
+- ☕ I’m currently learning HTML,CSS and Java.
 
 
 <!---
